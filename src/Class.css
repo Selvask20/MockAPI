@@ -1,0 +1,25 @@
+#ss{
+    border: 2px solid black;
+    height: 500px;
+    width: 500px;
+    margin-left: 300px;
+    background-color: aquamarine;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+.class{
+    text-align: center;
+    margin-top: 20px;
+    padding: 30px;
+    
+    
+}
+.clas{
+     /* color: white;
+     text-align: center;
+     padding: 30px; */
+}
+ol{
+    color: rgb(10, 9, 9);
+   margin-left: 150px;
+}
